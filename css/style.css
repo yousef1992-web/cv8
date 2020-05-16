@@ -1,0 +1,22 @@
+body{
+  background-color: #def4f0;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 2px;
+  width: 100%;
+}
+h1{
+  color: #66BFBF;
+}
+h3{
+  color: #66BFBF;
+}
+.GPA{
+  color: red;
+}
+#CE{
+  color: gold;
+}
